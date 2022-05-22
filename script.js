@@ -539,6 +539,31 @@
 // console.log(document.getElementsByTagName("p"));
 // console.log(document.getElementsByTagName("p")[1]); //NOTE: array er moto mone holeu eta aray na
 
+// factorial problem
 
-// js es6 start 
-console.log("Hello World");
+// let i = 1;
+// let factorial = 1;
+// while (i <= 10) {
+//   factorial = factorial * i;
+//   console.log(i, factorial);
+//   i++;
+// }
+
+// using function
+
+// function factorialll(n) {
+//   let i = 1;
+//   let fact = 1;
+//   while (i <= n) {
+//     fact = fact * i;
+//     i++;
+//   }
+//   return fact;
+// }
+
+// let factres = factorialll(5);
+// console.log(factres);
+
+
+// js es6 start
+
